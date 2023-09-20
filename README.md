@@ -10,13 +10,13 @@ Since the beginning of 2020, COVID-19 has spread wantonly around the world. Maki
 
 ### Data
 
-Downloaded from ❗️Vaccine Adverse Event Reporting System (VAERS).[![VAERS Logo](https://vaers.hhs.gov/images/vaers-logo.png)](https://vaers.hhs.gov/index.html)
+Downloaded from [Vaccine Adverse Event Reporting System (VAERS)](https://vaers.hhs.gov).[![VAERS Logo](https://vaers.hhs.gov/images/vaers-logo.png)](https://vaers.hhs.gov/index.html)
 
-All data used are in ❗️*VAERSDATA.*
+All data used are in [*VAERSDATA*](https://github.com/llxblhyvia/Fighting-Against-Choronavirus/tree/main/VAERSDATA).
 
 ### Code
 
-The ❗️code data processing and visualization part are divided to four parts : 
+The [code](https://github.com/llxblhyvia/Fighting-Against-Choronavirus/tree/main/FAC-CODE/FAC-data_visual) data processing and visualization part are divided to four parts : 
 
 - a_b_foundamental_visual.ipynb for  foundamental visualization, corresponding to the first two pages of the main page
 - c_wordcloud.ipynb for generating wordclouds of  adverse reactions under different conditions
@@ -41,7 +41,7 @@ Open ❗️with **Safari** browser.
 
 #### local mode of operation (LMO)
 
-Download and open the whole ❗️project with Pycharm, click the triangle symbol next to
+Download and open the whole [project](https://github.com/llxblhyvia/Fighting-Against-Choronavirus/tree/main/FAC-CODE/FAC-web_dev) with Pycharm, click the triangle symbol next to
 
 ```python
  `if __name__ == '__main__':` 
