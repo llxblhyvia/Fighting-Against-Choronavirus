@@ -3,7 +3,7 @@
 ## Overview
 
 Since the beginning of 2020, COVID-19 has spread wantonly around the world. Making the public aware of the typical symptoms after COVID-19 infection and the different characteristics of the virus infection among different populations will enable the public to prepare more fully to deal with it. Therefore, we have developed the **Fight Against Choronavirus** (**FAC**) data visualization webpage, which enables the public to have a clear and intuitive understanding of the symptoms of COVID-19 infection in an interactive way. This project is completely open source for all the data processing, visualization, and web development parts.
-
+![main]()
 
 
 ## Data Analytics and Visualization
