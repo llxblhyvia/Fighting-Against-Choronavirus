@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>不良反应随时间变化图</title>
+		<link href="/static/css/d.css" rel="stylesheet"/>
+	</head>
+	<body style=" background-image: url(../static/images/bgc.jpg) ;background-repeat:no-repeat ;background-size:100% 100%;
+	background-attachment: fixed;">
+		<div id="title">不良反应随时间变化图</div>
+		<script type="text/javascript" language="javascript">
+			function dshow() {
+			document.getElementById("dimg").src = document.getElementById("dselect").value;
+		}
+		</script>
+		
+		<select style="width:200px;font-size: 40px;position:absolute;left:620px;top:70px;" id="dselect" onchange="dshow()">
+			<option value="/static/images/d/症状-胳膊疼痛随时间推移出现频率的变化.png">症状-胳膊疼</option>
+			<option value="/static/images/d/症状-头痛随时间推移出现频率的变化.png">症状-头痛</option>
+			<option value="/static/images/d/症状-发烧随时间推移出现频率的变化.png">症状-发烧</option>
+			<option value="/static/images/d/症状-皮疹随时间推移出现频率的变化.png">症状-皮疹</option>
+			<option value="/static/images/d/症状-肿胀随时间推移出现频率的变化.png">症状-肿胀</option>
+			<option value="/static/images/d/症状-恶心随时间推移出现频率的变化.png">症状-恶心</option>
+		</select>
+		
+		<img id="dimg" src="/static/images/d/症状-胳膊疼痛随时间推移出现频率的变化.png" alt="" style="width:1400px;height:740px;position:absolute;left:70px;top:100px;"/>
+		
+	</body>
+</html>
