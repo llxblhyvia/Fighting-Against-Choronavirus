@@ -21,7 +21,7 @@ The [code](https://github.com/llxblhyvia/Fighting-Against-Choronavirus/tree/main
 - a_b_foundamental_visual.ipynb for  foundamental visualization, corresponding to the first two pages of the main page
 ![time](https://github.com/llxblhyvia/Fighting-Against-Choronavirus/blob/main/time.png)
 - c_wordcloud.ipynb for generating wordclouds of  adverse reactions under different conditions
-![wordcloud](word cloud.png)
+![wordcloud](wordcloud.png)
 - d-time.ipynb for adverse effects over time
 - e-model.ipynb for Adverse effects of deceased patients and health advice for people.
 
