@@ -18,12 +18,12 @@ All data used are in [*VAERSDATA*](https://github.com/llxblhyvia/Fighting-Agains
 
 The [code](https://github.com/llxblhyvia/Fighting-Against-Choronavirus/tree/main/FAC-CODE/FAC-data_visual) data processing and visualization part are divided to four parts : 
 
-- a_b_foundamental_visual.ipynb for  foundamental visualization, corresponding to the first two pages of the main page
+- `a_b_foundamental_visual.ipynb` for  foundamental visualization, corresponding to the first two pages of the main page
 ![time](https://github.com/llxblhyvia/Fighting-Against-Choronavirus/blob/main/time.png)
-- c_wordcloud.ipynb for generating wordclouds of  adverse reactions under different conditions
+- `c_wordcloud.ipynb` for generating wordclouds of  adverse reactions under different conditions
 ![wordcloud](wordcloud.png)
-- d-time.ipynb for adverse effects over time
-- e-model.ipynb for Adverse effects of deceased patients and health advice for people.
+- `d-time.ipynb` for adverse effects over time
+- `e-model.ipynb` for Adverse effects of deceased patients and health advice for people.
 
 ### Dependencies
 
