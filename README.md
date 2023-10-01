@@ -39,7 +39,7 @@ This code was confirmed to run with the following environment:
 
 ### Online mode
 
-Open ❗️with **Safari** browser.
+Open ❗️with **Safari** browser.[will be deployed soon]
 
 #### local mode of operation (LMO)
 
